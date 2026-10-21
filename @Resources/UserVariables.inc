@@ -6,7 +6,7 @@
 ; ============================================================
 
 ; Klucz Torn API (wymagane uprawnienia: Public/Minimal)
-APIKey=Jxh9H8O94M9Y5X2F
+APIKey=
 
 ; Przezroczystosc tla (0 = calkowicie przezroczyste, 255 = pelny kolor)
 BgAlpha=0
